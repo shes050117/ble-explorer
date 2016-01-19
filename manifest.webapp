@@ -1,5 +1,5 @@
 {
-  "name": "BLE Explorer",
+  "name": "BLEE Explorer",
   "type": "certified",
   "launch_path": "./index.html",
   "icons": {
@@ -7,15 +7,15 @@
     "48": "/img/icons/icon_48.png",
     "128": "/img/icons/icon_128.png"
   },
-  "description": "BLE Explorer App",
+  "description": "BLEEE Explorer App",
   "developer": {
     "name": "Eddie Lin",
     "url": "https://github.com/elin-moco/"
   },
   "locales": {
     "en-US": {
-      "name": "BLE Explorer",
-      "description": "BLE Explorer App"
+      "name": "BLEE Explorer",
+      "description": "BLEEE Explorer App"
     }
   },
   "default_locale": "en-US",
